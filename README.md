@@ -9,3 +9,5 @@ Life Expectancy_EDA_project ise yine daha sonra üzerinde ML uygulaması gerçek
 yt videoa linki : https://youtu.be/GP-2634exqA
 
 Datasetin kaggle linki : https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/code?datasetId=12603&sortBy=voteCount 
+
+Flights için kaggle linki : https://www.kaggle.com/datasets/bhavikjikadara/us-airline-flight-routes-and-fares-1993-2024/data
